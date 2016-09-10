@@ -1,2 +1,3 @@
 # demo_git
-trying again
+
+Une demo de git qui se passe bien
